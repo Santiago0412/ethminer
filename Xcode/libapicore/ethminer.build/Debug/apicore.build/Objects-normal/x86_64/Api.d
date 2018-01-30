@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/zhaoalex/Desktop/OutsourcingProject/BITCOIN/ethminer/libapicore/Api.cpp \
+  /Users/zhaoalex/Desktop/OutsourcingProject/BITCOIN/ethminer/libapicore/Api.h \
+  /Users/zhaoalex/Desktop/OutsourcingProject/BITCOIN/ethminer/libapicore/ApiServer.h \
+  /Users/zhaoalex/Desktop/OutsourcingProject/BITCOIN/ethminer/libapicore/../libethcore/Farm.h \
+  /Users/zhaoalex/Desktop/OutsourcingProject/BITCOIN/ethminer/libapicore/../libdevcore/Common.h \
+  /Users/zhaoalex/Desktop/OutsourcingProject/BITCOIN/ethminer/libapicore/../libdevcore/vector_ref.h \
+  /Users/zhaoalex/Desktop/OutsourcingProject/BITCOIN/ethminer/libapicore/../libdevcore/Worker.h \
+  /Users/zhaoalex/Desktop/OutsourcingProject/BITCOIN/ethminer/libapicore/../libdevcore/Guards.h \
+  /Users/zhaoalex/Desktop/OutsourcingProject/BITCOIN/ethminer/libapicore/../libethcore/Miner.h \
+  /Users/zhaoalex/Desktop/OutsourcingProject/BITCOIN/ethminer/libapicore/../libdevcore/Log.h \
+  /Users/zhaoalex/Desktop/OutsourcingProject/BITCOIN/ethminer/libapicore/../libdevcore/CommonData.h \
+  /Users/zhaoalex/Desktop/OutsourcingProject/BITCOIN/ethminer/libapicore/../libdevcore/FixedHash.h \
+  /Users/zhaoalex/Desktop/OutsourcingProject/BITCOIN/ethminer/libapicore/../libdevcore/Terminal.h \
+  /Users/zhaoalex/Desktop/OutsourcingProject/BITCOIN/ethminer/libapicore/../libethcore/EthashAux.h \
+  /Users/zhaoalex/Desktop/OutsourcingProject/BITCOIN/ethminer/libapicore/../libethash/ethash.h \
+  /Users/zhaoalex/Desktop/OutsourcingProject/BITCOIN/ethminer/libapicore/../libethash/compiler.h \
+  /Users/zhaoalex/Desktop/OutsourcingProject/BITCOIN/ethminer/libapicore/../libethcore/BlockHeader.h \
+  /Users/zhaoalex/Desktop/OutsourcingProject/BITCOIN/ethminer/libapicore/../libdevcore/RLP.h \
+  /Users/zhaoalex/Desktop/OutsourcingProject/BITCOIN/ethminer/libapicore/../libdevcore/Exceptions.h \
+  /Users/zhaoalex/Desktop/OutsourcingProject/BITCOIN/ethminer/libapicore/../libdevcore/SHA3.h \
+  /Users/zhaoalex/Desktop/OutsourcingProject/BITCOIN/ethminer/libapicore/../libethcore/Exceptions.h

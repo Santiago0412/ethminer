@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/zhaoalex/Desktop/OutsourcingProject/BITCOIN/ethminer/libstratum/EthStratumClient.cpp \
+  /Users/zhaoalex/Desktop/OutsourcingProject/BITCOIN/ethminer/libstratum/EthStratumClient.h \
+  /Users/zhaoalex/Desktop/OutsourcingProject/BITCOIN/ethminer/libstratum/../libdevcore/Log.h \
+  /Users/zhaoalex/Desktop/OutsourcingProject/BITCOIN/ethminer/libstratum/../libdevcore/vector_ref.h \
+  /Users/zhaoalex/Desktop/OutsourcingProject/BITCOIN/ethminer/libstratum/../libdevcore/Common.h \
+  /Users/zhaoalex/Desktop/OutsourcingProject/BITCOIN/ethminer/libstratum/../libdevcore/CommonData.h \
+  /Users/zhaoalex/Desktop/OutsourcingProject/BITCOIN/ethminer/libstratum/../libdevcore/FixedHash.h \
+  /Users/zhaoalex/Desktop/OutsourcingProject/BITCOIN/ethminer/libstratum/../libdevcore/Terminal.h \
+  /Users/zhaoalex/Desktop/OutsourcingProject/BITCOIN/ethminer/libstratum/../libethcore/Farm.h \
+  /Users/zhaoalex/Desktop/OutsourcingProject/BITCOIN/ethminer/libstratum/../libdevcore/Worker.h \
+  /Users/zhaoalex/Desktop/OutsourcingProject/BITCOIN/ethminer/libstratum/../libdevcore/Guards.h \
+  /Users/zhaoalex/Desktop/OutsourcingProject/BITCOIN/ethminer/libstratum/../libethcore/Miner.h \
+  /Users/zhaoalex/Desktop/OutsourcingProject/BITCOIN/ethminer/libstratum/../libethcore/EthashAux.h \
+  /Users/zhaoalex/Desktop/OutsourcingProject/BITCOIN/ethminer/libstratum/../libethash/ethash.h \
+  /Users/zhaoalex/Desktop/OutsourcingProject/BITCOIN/ethminer/libstratum/../libethash/compiler.h \
+  /Users/zhaoalex/Desktop/OutsourcingProject/BITCOIN/ethminer/libstratum/../libethcore/BlockHeader.h \
+  /Users/zhaoalex/Desktop/OutsourcingProject/BITCOIN/ethminer/libstratum/../libdevcore/RLP.h \
+  /Users/zhaoalex/Desktop/OutsourcingProject/BITCOIN/ethminer/libstratum/../libdevcore/Exceptions.h \
+  /Users/zhaoalex/Desktop/OutsourcingProject/BITCOIN/ethminer/libstratum/../libdevcore/SHA3.h \
+  /Users/zhaoalex/Desktop/OutsourcingProject/BITCOIN/ethminer/libstratum/../libethcore/Exceptions.h \
+  /Users/zhaoalex/Desktop/OutsourcingProject/BITCOIN/ethminer/Xcode/BuildInfo.h \
+  /Users/zhaoalex/Desktop/OutsourcingProject/BITCOIN/ethminer/libstratum/../libethash/endian.h

@@ -1,0 +1,27 @@
+dependencies: \
+  /Users/zhaoalex/Desktop/OutsourcingProject/BITCOIN/ethminer/libethash-cl/CLMiner.cpp \
+  /Users/zhaoalex/Desktop/OutsourcingProject/BITCOIN/ethminer/libethash-cl/CLMiner.h \
+  /Users/zhaoalex/Desktop/OutsourcingProject/BITCOIN/ethminer/libethash-cl/../libdevcore/Worker.h \
+  /Users/zhaoalex/Desktop/OutsourcingProject/BITCOIN/ethminer/libethash-cl/../libdevcore/Guards.h \
+  /Users/zhaoalex/Desktop/OutsourcingProject/BITCOIN/ethminer/libethash-cl/../libethcore/EthashAux.h \
+  /Users/zhaoalex/Desktop/OutsourcingProject/BITCOIN/ethminer/libethash-cl/../libethash/ethash.h \
+  /Users/zhaoalex/Desktop/OutsourcingProject/BITCOIN/ethminer/libethash-cl/../libethash/compiler.h \
+  /Users/zhaoalex/Desktop/OutsourcingProject/BITCOIN/ethminer/libethash-cl/../libdevcore/Log.h \
+  /Users/zhaoalex/Desktop/OutsourcingProject/BITCOIN/ethminer/libethash-cl/../libdevcore/vector_ref.h \
+  /Users/zhaoalex/Desktop/OutsourcingProject/BITCOIN/ethminer/libethash-cl/../libdevcore/Common.h \
+  /Users/zhaoalex/Desktop/OutsourcingProject/BITCOIN/ethminer/libethash-cl/../libdevcore/CommonData.h \
+  /Users/zhaoalex/Desktop/OutsourcingProject/BITCOIN/ethminer/libethash-cl/../libdevcore/FixedHash.h \
+  /Users/zhaoalex/Desktop/OutsourcingProject/BITCOIN/ethminer/libethash-cl/../libdevcore/Terminal.h \
+  /Users/zhaoalex/Desktop/OutsourcingProject/BITCOIN/ethminer/libethash-cl/../libethcore/BlockHeader.h \
+  /Users/zhaoalex/Desktop/OutsourcingProject/BITCOIN/ethminer/libethash-cl/../libdevcore/RLP.h \
+  /Users/zhaoalex/Desktop/OutsourcingProject/BITCOIN/ethminer/libethash-cl/../libdevcore/Exceptions.h \
+  /Users/zhaoalex/Desktop/OutsourcingProject/BITCOIN/ethminer/libethash-cl/../libdevcore/SHA3.h \
+  /Users/zhaoalex/Desktop/OutsourcingProject/BITCOIN/ethminer/libethash-cl/../libethcore/Exceptions.h \
+  /Users/zhaoalex/Desktop/OutsourcingProject/BITCOIN/ethminer/libethash-cl/../libethcore/Miner.h \
+  /Users/zhaoalex/Desktop/OutsourcingProject/BITCOIN/ethminer/libethash-cl/../libhwmon/wrapnvml.h \
+  /Users/zhaoalex/Desktop/OutsourcingProject/BITCOIN/ethminer/libethash-cl/../libhwmon/wrapadl.h \
+  /Users/zhaoalex/Desktop/OutsourcingProject/BITCOIN/ethminer/libethash-cl/CL/cl2.hpp \
+  /Users/zhaoalex/Desktop/OutsourcingProject/BITCOIN/ethminer/libethash-cl/../libethash/internal.h \
+  /Users/zhaoalex/Desktop/OutsourcingProject/BITCOIN/ethminer/libethash-cl/../libethash/endian.h \
+  /Users/zhaoalex/Desktop/OutsourcingProject/BITCOIN/ethminer/Xcode/libethash-cl/CLMiner_kernel_stable.h \
+  /Users/zhaoalex/Desktop/OutsourcingProject/BITCOIN/ethminer/Xcode/libethash-cl/CLMiner_kernel_unstable.h
